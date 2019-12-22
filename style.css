@@ -1,6 +1,10 @@
 h1
 {
-    background-color: #eeeeee;
     text-align : center;
     color: grey;
+}
+
+body
+{
+    background-color: darkslategray;
 }
